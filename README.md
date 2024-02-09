@@ -2,9 +2,11 @@
 
 Your goal is to use HTML and CSS to layout the faces of some playing cards. **Don't feel obligated to do all 10.** But I won't stop you if you feel ambitious.
 
-a
+<img width="611" alt="Screenshot 2024-02-08 at 10 16 52 PM" src="https://github.com/IGME-330-01-2235/fe03-cards/assets/1882129/06c63772-8dc2-40c3-bd01-d59afeb4a71e">
 
-b
+<img width="611" alt="Screenshot 2024-02-08 at 10 17 22 PM" src="https://github.com/IGME-330-01-2235/fe03-cards/assets/1882129/9d632091-80e7-4a12-9d55-95f26583008c">
+
+<br/><br/>
 
 In order of complexity (easy to difficult), I'd rank them as follows:
 
